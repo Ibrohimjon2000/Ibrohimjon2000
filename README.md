@@ -1,4 +1,5 @@
-### Hi there 👋
+![Ibrohimjon](https://user-images.githubusercontent.com/93897784/185085645-684fef6d-6baa-41fc-b1dc-63798e064231.gif)
+
 
 <!--
 **Ibrohimjon2000/Ibrohimjon2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
